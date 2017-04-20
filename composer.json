@@ -18,16 +18,5 @@
     },
     "include-path": [
         "library/"
-    ],
-    "config": {
-        "bin-dir": "bin"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.12.x-dev"
-        }
-    },
-    "archive": {
-        "exclude": ["/demos", "/documentation", "/tests"]
-    }
+    ]
 }
